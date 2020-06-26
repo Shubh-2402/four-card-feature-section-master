@@ -85,7 +85,6 @@ img{
     .main{
         width: 100%;
         text-align: center;
-        height: calc(100vh - 397px)
         box-sizing: border-box;
         padding: 10px;
     }
